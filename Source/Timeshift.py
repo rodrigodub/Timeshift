@@ -21,6 +21,7 @@ class Timeshift(object):
 	def __init__(self, fileName, deltaTime):
 		super(Timeshift, self).__init__()
 		self.fileName = fileName
+		self.deltaTime = deltaTime
 		
 
 
