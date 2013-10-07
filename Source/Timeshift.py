@@ -32,21 +32,25 @@ class Timeshift(object):
 		return line.replace(',','.').split(' --> ')
 
 
-	# method adjust()
-	def adjust(self, timeList, delta):
-		return datetime.datetime(datetime.datetime.today().year
+	# method adjustTime()
+	def adjustTime(self, timeValue, delta):
+		adj = datetime.datetime(datetime.datetime.today().year
 			, datetime.datetime.today().month
 			, datetime.datetime.today().day
-			, int(timeList.split(':')[0])
-			, int(timeList.split(':')[1])
-			, int(float(timeList.split(':')[2]))
-			, int((str(float(timeList.split(':')[2])).split('.')[1] + '000000')[0:6])
-			) + datetime.timedelta(seconds = 1, microseconds = 500000)
-		#return datetime.datetime(datetime.datetime.today().year
-		#	,datetime.datetime.today().month
-		#	,datetime.datetime.today().day
-		#	,0,2,51,456000)
+			, int(timeValue.split(':')[0])
+			, int(timeValue.split(':')[1])
+			, int(float(timeValue.split(':')[2]))
+			, int((str(float(timeValue.split(':')[2])).split('.')[1] + '000000')[0:6])
+			) + datetime.timedelta(seconds = int(float(delta)) , microseconds = int((str(float(delta)).split('.')[1] + '000000')[0:6]))
+		# saida com ponto
+		#return ('00'+str(adj.hour))[-2:] + ':' + ('00'+str(adj.minute))[-2:] + ':' + ('00'+str(adj.second))[-2:] + '.' + str(int(adj.microsecond/1000))
+		# saida com virgula
+		return ('00'+str(adj.hour))[-2:] + ':' + ('00'+str(adj.minute))[-2:] + ':' + ('00'+str(adj.second))[-2:] + ',' + str(int(adj.microsecond/1000))
 
+
+	# method transformLine()
+	def transformLine(self, line, delta):
+		return self.adjustTime(self.timeList(line)[0], delta) + ' --> ' + self.adjustTime(self.timeList(line)[1], delta)
 
 
 	# method parsefile()
