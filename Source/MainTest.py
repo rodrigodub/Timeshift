@@ -8,7 +8,7 @@
 ## for ticket 
 ## 
 ## Rodrigo Nobrega
-## 20131002-20131006
+## 20131002-20131007
 #################################################
 
 
@@ -29,7 +29,9 @@ def main():
 	ts = Timeshift('/Users/Rodrigo/Documents/GitHub/Timeshift/Test/Agents.of.S.H.I.E.L.D.S01E01.Pilot.WEB-DL.x264.AAC.srt',4)
 	l1 = ts.timeList('00:02:51,326 --> 00:02:53,821') 
 	print l1
-	print ts.timeShift(l1, ts.deltaTime)
+	print ts.deltaTime
+	print ts.adjust(l1[0], ts.deltaTime)
+	print ts.adjust(l1[1], ts.deltaTime)
 
 
 

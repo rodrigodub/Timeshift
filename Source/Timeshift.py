@@ -6,11 +6,11 @@
 ## for ticket 
 ## 
 ## Rodrigo Nobrega
-## 20131002-
+## 20131002-20131007
 #################################################
 
 # import modules
-from datetime import *
+import datetime
 #from time import * 
 import os
 
@@ -32,12 +32,20 @@ class Timeshift(object):
 		return line.replace(',','.').split(' --> ')
 
 
-	# method timeShift()
-	def timeShift(self, timeList, delta):
-		#return datetime.time(int(timeList[0].split(':')[0])
-		#	, int(timeList[0].split(':')[1])
-		#	, int(float(timeList[0].split(':')[2]))) 
-		return datetime.time(0,2,51)
+	# method adjust()
+	def adjust(self, timeList, delta):
+		return datetime.datetime(datetime.datetime.today().year
+			, datetime.datetime.today().month
+			, datetime.datetime.today().day
+			, int(timeList.split(':')[0])
+			, int(timeList.split(':')[1])
+			, int(float(timeList.split(':')[2]))
+			, int((str(float(timeList.split(':')[2])).split('.')[1] + '000000')[0:6])
+			) + datetime.timedelta(seconds = 1, microseconds = 500000)
+		#return datetime.datetime(datetime.datetime.today().year
+		#	,datetime.datetime.today().month
+		#	,datetime.datetime.today().day
+		#	,0,2,51,456000)
 
 
 
