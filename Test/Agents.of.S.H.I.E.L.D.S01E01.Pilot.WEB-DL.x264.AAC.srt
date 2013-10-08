@@ -80,7 +80,7 @@ Não precisa.
 Ei.
 
 19
-00:00:55,088 --> 00:00:58,217
+00:00:55,880 --> 00:00:58,217
 As coisas estão difíceis agora,
 mas vou achar algo.
 
@@ -90,12 +90,12 @@ Não mais na fábrica,
 mas tenho propostas.
 
 21
-00:01:01,816 --> 00:01:04,047
+00:01:01,816 --> 00:01:04,470
 - Você e eu, o que nós somos?
 - Uma equipe.
 
 22
-00:01:04,048 --> 00:01:06,448
+00:01:04,480 --> 00:01:06,448
 Isso mesmo!
 Então, que tal se...
 
@@ -131,7 +131,7 @@ Cuide do meu garoto!
 <i>Ajudem-me! Ajudem-me!</i>
 
 30
-00:02:05,697 --> 00:02:07,095
+00:02:05,697 --> 00:02:07,950
 <i>Venha!</i>
 
 31
@@ -174,7 +174,7 @@ Agente Ward,
 surgiram complicações.
 
 39
-00:03:05,015 --> 00:03:06,446
+00:03:05,150 --> 00:03:06,446
 É o Maré Crescente.
 
 40
@@ -239,17 +239,17 @@ Sério?
 agente Ward?</i>
 
 53
-00:05:23,000 --> 00:05:25,549
+00:05:23,0 --> 00:05:25,549
 Superintendência Humana
 de Intervenção,
 
 54
-00:05:25,550 --> 00:05:28,050
+00:05:25,550 --> 00:05:28,500
 Espionagem, Logística
 e Dissuasão.
 
 55
-00:05:29,000 --> 00:05:30,800
+00:05:29,0 --> 00:05:30,800
 <i>E o que isso significa
 para você?</i>
 
@@ -295,11 +295,11 @@ nós os mantemos seguros.
 Quando algo surge...
 
 65
-00:05:53,850 --> 00:05:56,098
+00:05:53,850 --> 00:05:56,980
 Como um link neural chitauri.
 
 66
-00:05:56,099 --> 00:05:58,599
+00:05:56,990 --> 00:05:58,599
 ESCRITÓRIO DA AGENTE HILL
 LOCALIZAÇÃO: CONFIDENCIAL
 
@@ -348,12 +348,12 @@ era um bilionário,
 voando em um terno metálico.
 
 76
-00:06:20,200 --> 00:06:22,050
+00:06:20,200 --> 00:06:22,500
 Então,
 aliens invadiram Nova York...
 
 77
-00:06:22,051 --> 00:06:23,826
+00:06:22,510 --> 00:06:23,826
 e foram derrotados...
 
 78
@@ -388,7 +388,7 @@ em seus braços.
 foi o fim do mundo.
 
 85
-00:06:39,050 --> 00:06:40,899
+00:06:39,500 --> 00:06:40,899
 Isso, agora...
 
 86
@@ -420,11 +420,11 @@ Vai ter que perguntar isso
 ao agente Coulson.
 
 92
-00:06:54,500 --> 00:06:56,000
+00:06:54,500 --> 00:06:56,0
 Com certeza.
 
 93
-00:06:56,300 --> 00:06:58,000
+00:06:56,300 --> 00:06:58,0
 Tenho autorização
 de nível 6.
 
@@ -465,7 +465,7 @@ Acho que há
 uma lâmpada queimada.
 
 102
-00:07:35,000 --> 00:07:38,500
+00:07:35,0 --> 00:07:38,500
 O diretor Fury forjou sua morte
 para motivar os Vingadores.
 
@@ -503,12 +503,12 @@ a cada vez que fala.
 Quando for esfaqueada...
 
 110
-00:07:50,655 --> 00:07:53,054
+00:07:50,655 --> 00:07:53,540
 pelo Mussolini asgardiano,
 conte do seu modo.
 
 111
-00:07:53,055 --> 00:07:56,155
+00:07:53,550 --> 00:07:56,155
 Vi uma gigante luz branca.
 Pareceu mais do que 8 segundos.
 
@@ -550,7 +550,7 @@ cujo linguajar era...
 irrelevante.
 
 120
-00:08:11,911 --> 00:08:14,000
+00:08:11,911 --> 00:08:14,0
 Mas algo colocou você
 de volta ao jogo.
 
@@ -572,7 +572,7 @@ Um talentoso sem registro.
 Identidade desconhecida.
 
 125
-00:08:22,102 --> 00:08:26,002
+00:08:22,102 --> 00:08:26,200
 <i>O segredo foi descoberto.
 Por décadas, sua organização...</i>
 
@@ -665,7 +665,7 @@ Um comitê de boas-vindas?
 - Sei que não é o que quer.
 
 145
-00:09:13,050 --> 00:09:16,549
+00:09:13,500 --> 00:09:16,549
 Agente Hill detalhou muito bem
 suas últimas 3 missões.
 
@@ -689,12 +689,12 @@ Em habilidades pessoais
 ela desenhou...
 
 150
-00:09:24,851 --> 00:09:28,000
+00:09:24,851 --> 00:09:28,0
 acho que é um pequeno cocô.
 Com facas saindo dele.
 
 151
-00:09:28,001 --> 00:09:29,401
+00:09:28,100 --> 00:09:29,401
 - O quê?
 - É...
 
@@ -723,7 +723,7 @@ Se eu estiver errado,
 volta para suas bombas.
 
 157
-00:09:44,000 --> 00:09:46,961
+00:09:44,0 --> 00:09:46,961
 Equipe aprovada.
 Exames todos bons.
 
@@ -742,7 +742,7 @@ O agente Ward
 está quase pronto.
 
 161
-00:09:54,000 --> 00:09:56,250
+00:09:54,0 --> 00:09:56,250
 Isso é um problema.
 Isso deve ser um problema.
 
@@ -757,12 +757,12 @@ Era um porco-espinho,
 não um cocô.
 
 164
-00:10:06,280 --> 00:10:09,094
+00:10:06,280 --> 00:10:09,940
 - Significa que ele...
 - Não, tenho certeza.
 
 165
-00:10:09,095 --> 00:10:12,445
+00:10:09,950 --> 00:10:12,445
 E não é só isso,
 a lista inteira é um rascunho.
 
@@ -803,12 +803,12 @@ Taiti.
 É um lugar mágico.
 
 174
-00:10:34,104 --> 00:10:37,084
+00:10:34,104 --> 00:10:37,840
 3 dias e eu estaria implorando
 por uma missão.
 
 175
-00:10:37,085 --> 00:10:39,244
+00:10:37,850 --> 00:10:39,244
 Exatamente.
 
 176
@@ -844,7 +844,7 @@ do herói encapuzado...</i>
 <i>continua desconhecida.</i>
 
 183
-00:11:12,549 --> 00:11:15,065
+00:11:12,549 --> 00:11:15,650
 <i>Pesquisadores da UCLA
 divulgaram um estudo...</i>
 
@@ -973,12 +973,12 @@ O quê?
 Devo carregar um escudo?
 
 210
-00:12:24,270 --> 00:12:26,015
+00:12:24,270 --> 00:12:26,150
 S.H.I.E.L.D.
 O Governo.
 
 211
-00:12:26,016 --> 00:12:27,776
+00:12:26,160 --> 00:12:27,776
 Caras assustadores
 em ternos pretos,
 
@@ -988,7 +988,7 @@ que vão atrás de caras
 como você.
 
 213
-00:12:30,020 --> 00:12:32,683
+00:12:30,200 --> 00:12:32,683
 Eles sabiam da Batalha de NY
 antes dela acontecer!
 
@@ -1012,11 +1012,11 @@ E quer saber
 por que me escondo?
 
 218
-00:12:42,197 --> 00:12:44,038
+00:12:42,197 --> 00:12:44,380
 E se não se escondesse?
 
 219
-00:12:44,339 --> 00:12:46,099
+00:12:44,339 --> 00:12:46,990
 E se encarasse isso
 de frente...
 
@@ -1049,12 +1049,12 @@ Eu poderia ajudá-lo a criar
 uma identidade nova ou...
 
 226
-00:13:06,682 --> 00:13:09,068
+00:13:06,682 --> 00:13:09,680
 - uma máscara.
 - Certo.
 
 227
-00:13:09,069 --> 00:13:11,912
+00:13:09,690 --> 00:13:11,912
 Ou também...
 você poderia ficar com...
 
@@ -1063,12 +1063,12 @@ você poderia ficar com...
 o capuz.
 
 229
-00:13:13,313 --> 00:13:16,082
+00:13:13,313 --> 00:13:16,820
 Escute,
 não pode fugir disso.
 
 230
-00:13:16,083 --> 00:13:18,257
+00:13:16,830 --> 00:13:18,257
 Com um grande poder vem...
 
 231
@@ -1102,7 +1102,7 @@ Wi-fi grátis, pode me visitar
 quando quiser.
 
 237
-00:13:36,327 --> 00:13:38,026
+00:13:36,327 --> 00:13:38,260
 Obrigado.
 
 238
@@ -1118,7 +1118,7 @@ Mike.
 <i>Agente May.</i>
 
 241
-00:13:56,078 --> 00:13:58,873
+00:13:56,780 --> 00:13:58,873
 - Não.
 - Você foi informada.
 
@@ -1133,7 +1133,7 @@ Você tem um trabalho e tanto
 por aqui.
 
 244
-00:14:06,038 --> 00:14:08,432
+00:14:06,380 --> 00:14:08,432
 Já pensou em adicionar
 um fosso?
 
@@ -1175,7 +1175,7 @@ tomando as decisões.
 Sem burocracia.
 
 253
-00:14:31,343 --> 00:14:34,012
+00:14:31,343 --> 00:14:34,120
 Na verdade, é aqui que fazem
 a burocracia, não é?
 
@@ -1209,12 +1209,12 @@ Cuidado!
 Essa é a arma boa-noite.
 
 261
-00:15:16,255 --> 00:15:18,005
+00:15:16,255 --> 00:15:18,500
 São as minhas coisas,
 não funciona,
 
 262
-00:15:18,006 --> 00:15:20,352
+00:15:18,600 --> 00:15:20,352
 e de modo algum,
 ela será a arma boa-noite.
 
@@ -1254,7 +1254,7 @@ não paraliso ninguém com isso.
 - Já ouviu falar de Física...
 
 270
-00:15:41,049 --> 00:15:42,495
+00:15:41,490 --> 00:15:42,495
 Fitz-Simmons?
 
 271
@@ -1263,7 +1263,7 @@ Fitz-Simmons?
 - Simmons.
 
 272
-00:15:44,719 --> 00:15:47,032
+00:15:44,719 --> 00:15:47,320
 Sou engenheiro.
 Ela é bioquímica.
 
@@ -1304,7 +1304,7 @@ de um receptor auricular.
 Então, como...
 
 281
-00:16:05,006 --> 00:16:07,456
+00:16:05,600 --> 00:16:07,456
 Incorporamos um silicone
 neurossensorial ao DNA.
 
@@ -1351,7 +1351,7 @@ As pessoas confundem
 as palavras "novo" e "melhor".
 
 291
-00:16:42,066 --> 00:16:43,760
+00:16:42,660 --> 00:16:43,760
 Este comando móvel...
 
 292
@@ -1384,7 +1384,7 @@ sobre fogo pesado, senhor.
 A primeira parte da...
 
 298
-00:16:59,099 --> 00:17:00,747
+00:16:59,990 --> 00:17:00,747
 Não vou contar agora.
 
 299
@@ -1421,7 +1421,7 @@ Melinda May
 Vamos, senhor.
 
 306
-00:17:20,436 --> 00:17:22,070
+00:17:20,436 --> 00:17:22,700
 Que jogo está jogando?
 
 307
@@ -1434,7 +1434,7 @@ seu equipamento.
 <i>Como chegará até nós?</i>
 
 309
-00:17:39,001 --> 00:17:40,820
+00:17:39,100 --> 00:17:40,820
 <i>Pelo ar?</i>
 
 310
@@ -1455,11 +1455,11 @@ dessa vez?</i>
 <i>A verdade está no vento.</i>
 
 314
-00:17:53,050 --> 00:17:54,705
+00:17:53,500 --> 00:17:54,705
 <i>Está por toda parte.</i>
 
 315
-00:17:55,067 --> 00:17:58,412
+00:17:55,670 --> 00:17:58,412
 Não se pode parar
 a Maré Crescente.
 
@@ -1506,7 +1506,7 @@ O agente Ward aqui
 tem uma história com seu grupo.
 
 325
-00:18:41,043 --> 00:18:42,522
+00:18:41,430 --> 00:18:42,522
 A Maré Crescente.
 
 326
@@ -1532,16 +1532,16 @@ Não.
 <i>Como é seu nome?</i>
 
 331
-00:18:55,068 --> 00:18:57,031
+00:18:55,680 --> 00:18:57,310
 - Skye.
 - E seu verdadeiro nome?
 
 332
-00:18:57,036 --> 00:18:58,420
+00:18:57,360 --> 00:18:58,420
 Isso pode esperar.
 
 333
-00:18:58,435 --> 00:19:01,016
+00:18:58,435 --> 00:19:01,160
 Há outro nome que precisamos,
 um certo herói.
 
@@ -1603,12 +1603,12 @@ o meu equipamento...
 vocês não têm nada.
 
 346
-00:19:30,917 --> 00:19:33,021
+00:19:30,917 --> 00:19:33,210
 Achamos ser
 uma forte coincidência...
 
 347
-00:19:33,039 --> 00:19:37,602
+00:19:33,390 --> 00:19:37,602
 você ter estado na cena
 logo antes do incêndio.
 
@@ -1638,12 +1638,12 @@ Eu fui sequestrada
 pelo seu "estilo".
 
 353
-00:20:05,927 --> 00:20:08,056
+00:20:05,927 --> 00:20:08,560
 A S.H.I.E.L.D. encobriu
 o Novo México.
 
 354
-00:20:08,057 --> 00:20:11,057
+00:20:08,570 --> 00:20:11,570
 O Projeto Pegasus.
 Claro que também a Centopeia.
 
@@ -1695,7 +1695,7 @@ vai querer dissecá-lo.</i>
 O que é Centopeia?
 
 365
-00:20:42,751 --> 00:20:45,051
+00:20:42,751 --> 00:20:45,510
 DESPEJO
 - Sim, entendi, mas...
 
@@ -1725,12 +1725,12 @@ mas se sairmos na frente disso,
 talvez...
 
 371
-00:21:00,027 --> 00:21:03,077
+00:21:00,270 --> 00:21:03,770
 E então? Quer que eu volte
 rastejando para a fábrica?
 
 372
-00:21:03,079 --> 00:21:05,344
+00:21:03,790 --> 00:21:05,344
 Nem me pagaram meus direitos.
 Não acho que...
 
@@ -1805,7 +1805,7 @@ Não, não tenho.
 Vamos trabalhar."
 
 388
-00:22:01,056 --> 00:22:03,453
+00:22:01,560 --> 00:22:03,453
 <i>Centopeia,
 apareceu na internet...</i>
 
@@ -1823,7 +1823,7 @@ até àquele prédio.
 Do que estava atrás?
 
 392
-00:22:08,820 --> 00:22:11,038
+00:22:08,820 --> 00:22:11,380
 Da verdade.
 Do que você está atrás?
 
@@ -1837,11 +1837,11 @@ Vocês,
 hackers pseudo-anarquistas...
 
 395
-00:22:16,619 --> 00:22:18,019
+00:22:16,619 --> 00:22:18,190
 gostam de agitar as coisas.
 
 396
-00:22:18,085 --> 00:22:19,826
+00:22:18,850 --> 00:22:19,826
 Mas fogem
 das consequências.
 
@@ -1856,7 +1856,7 @@ Bem, só porque você
 é razoável e...
 
 399
-00:22:26,065 --> 00:22:27,365
+00:22:26,650 --> 00:22:27,365
 firme.
 
 400
@@ -1875,12 +1875,12 @@ sem rosto.
 - Ele não é meu cara!
 
 403
-00:22:34,495 --> 00:22:37,069
+00:22:34,495 --> 00:22:37,690
 - Sabe que ele está em perigo.
 - Então me deixe ir.
 
 404
-00:22:37,071 --> 00:22:39,901
+00:22:37,710 --> 00:22:39,901
 Deixe-me falar com ele.
 Eu, não o T-1000 aqui.
 
@@ -1890,7 +1890,7 @@ Quer ficar a sós com ele.
 Claro.
 
 406
-00:22:43,074 --> 00:22:44,574
+00:22:43,740 --> 00:22:44,574
 Ela é uma groupie.
 
 407
@@ -1912,11 +1912,11 @@ que cercam a Torre Stark.
 O quê?! Eu não...
 
 411
-00:22:53,557 --> 00:22:55,020
+00:22:53,557 --> 00:22:55,200
 Foi só uma vez.
 
 412
-00:22:56,009 --> 00:22:57,501
+00:22:56,900 --> 00:22:57,501
 Ward.
 
 413
@@ -1930,7 +1930,7 @@ Ela está mexendo com você?
 - Ou é a missão?
 
 415
-00:23:06,026 --> 00:23:07,624
+00:23:06,260 --> 00:23:07,624
 Está tão ansioso
 para sair...
 
@@ -1940,17 +1940,17 @@ que de propósito arruinaria
 um interrogatório?
 
 417
-00:23:09,984 --> 00:23:13,091
+00:23:09,984 --> 00:23:13,910
 Dê-me um minuto a sós com ela,
 e terá suas respostas.
 
 418
-00:23:13,158 --> 00:23:16,027
+00:23:13,158 --> 00:23:16,270
 - Ela é um trunfo.
 - Ela é tão...
 
 419
-00:23:16,094 --> 00:23:17,687
+00:23:16,940 --> 00:23:17,687
 Espere, "trunfo?"
 
 420
@@ -1985,7 +1985,7 @@ então, alguns gravam dimensões
 e texturas da sala,
 
 427
-00:23:34,354 --> 00:23:37,080
+00:23:34,354 --> 00:23:37,800
 e depois uns testam a densidade
 da matéria e radiação.
 
@@ -2004,7 +2004,7 @@ Encontrei algo.
 <i>Qual encontrou?</i>
 
 431
-00:23:44,056 --> 00:23:45,469
+00:23:44,560 --> 00:23:45,469
 O Dengoso.
 
 432
@@ -2013,7 +2013,7 @@ Câmera de vigilância.
 Tostada.
 
 433
-00:23:55,049 --> 00:23:58,220
+00:23:55,490 --> 00:23:58,220
 Sim, mas tem memória removível
 em caso de quedas.
 
@@ -2042,7 +2042,7 @@ Branca está lendo
 alguns compostos que são...
 
 439
-00:24:12,024 --> 00:24:13,508
+00:24:12,240 --> 00:24:13,508
 Nossa! Meu Deus!
 
 440
@@ -2063,12 +2063,12 @@ Um martini de primeira,
 derivado do sódio pentotal.
 
 444
-00:24:26,007 --> 00:24:29,451
+00:24:26,700 --> 00:24:29,451
 É uma nova e extremamente
 potente droga da verdade.
 
 445
-00:24:30,168 --> 00:24:34,064
+00:24:30,168 --> 00:24:34,640
 Não se preocupe.
 Os efeitos só duram uma hora.
 
@@ -2091,7 +2091,7 @@ Que droga?!
 Desculpe. Machucou?
 
 450
-00:24:43,647 --> 00:24:45,061
+00:24:43,647 --> 00:24:45,610
 Não.
 
 451
@@ -2113,12 +2113,12 @@ Mas sempre escondo a dor
 na frente de mulheres bonitas.
 
 455
-00:24:53,601 --> 00:24:55,045
+00:24:53,601 --> 00:24:55,450
 Isso me deixa
 mais masculino.
 
 456
-00:24:55,046 --> 00:24:57,546
+00:24:55,460 --> 00:24:57,546
 Meu Deus!
 Isso funciona rápido!
 
@@ -2163,11 +2163,11 @@ que teima em nos derrubar.
 - Sim, alguns.
 
 465
-00:25:27,855 --> 00:25:30,040
+00:25:27,855 --> 00:25:30,400
 Alvos de alto risco.
 
 466
-00:25:30,048 --> 00:25:32,172
+00:25:30,480 --> 00:25:32,172
 Mas eles eram
 pessoas terríveis...
 
@@ -2220,17 +2220,17 @@ iguais a você.
 Só que não reclamam.
 
 477
-00:25:56,389 --> 00:25:58,049
+00:25:56,389 --> 00:25:58,490
 Fui ferido,
 mas estou mais forte.
 
 478
-00:25:58,050 --> 00:25:59,919
+00:25:58,500 --> 00:25:59,919
 Aguento o dobro da carga
 de antes.
 
 479
-00:26:00,086 --> 00:26:02,992
+00:26:00,860 --> 00:26:02,992
 O que não está ouvindo?
 Você não serve.
 
@@ -2240,7 +2240,7 @@ Quando digo que quero
 as coisas andando, preciso...
 
 481
-00:26:08,591 --> 00:26:11,011
+00:26:08,591 --> 00:26:11,110
 - Desse jeito?
 - Você ficou louco?!
 
@@ -2258,7 +2258,7 @@ Não partes que substitui
 quando quebram!
 
 485
-00:26:21,047 --> 00:26:23,704
+00:26:21,470 --> 00:26:23,704
 Não sou eu, cara.
 É a empresa.
 
@@ -2284,7 +2284,7 @@ Igual ao que costumávamos ler.
 Você é o vilão.
 
 491
-00:26:36,887 --> 00:26:39,002
+00:26:36,887 --> 00:26:39,200
 E eu sou o herói.
 
 492
@@ -2306,7 +2306,7 @@ ficado no Taiti.
 Um lugar mágico.
 
 496
-00:26:55,315 --> 00:26:57,028
+00:26:55,315 --> 00:26:57,280
 Ward não gosta
 do seu estilo.
 
@@ -2321,12 +2321,12 @@ do seu estilo.
 em condição crítica.</i>
 
 499
-00:27:01,638 --> 00:27:04,057
+00:27:01,638 --> 00:27:04,570
 <i>Os empregados
 não identificaram o agressor,</i>
 
 500
-00:27:04,059 --> 00:27:05,547
+00:27:04,590 --> 00:27:05,547
 <i>mas os vídeos confirmam...</i>
 
 501
@@ -2372,7 +2372,7 @@ Ele se feriu, foi despedido.
 A esposa o largou.
 
 510
-00:27:32,083 --> 00:27:34,020
+00:27:32,830 --> 00:27:34,200
 Cara bom,
 passou maus bocados.
 
@@ -2400,7 +2400,7 @@ Fitz, o que temos dos vídeos
 antes da explosão?
 
 516
-00:27:47,032 --> 00:27:48,505
+00:27:47,320 --> 00:27:48,505
 O que estamos vendo?
 
 517
@@ -2409,7 +2409,7 @@ Bom, o homem está furioso
 com o outro cara.
 
 518
-00:27:55,080 --> 00:27:58,250
+00:27:55,800 --> 00:27:58,250
 - O arquivo está corrompido.
 - Tipo a Rússia na Guerra Fria.
 
@@ -2486,12 +2486,12 @@ A encriptação
 é acoplada ao GPS.
 
 534
-00:28:29,216 --> 00:28:32,006
+00:28:29,216 --> 00:28:32,600
 Devolvam minha van
 e volto aos negócios.
 
 535
-00:28:32,373 --> 00:28:34,038
+00:28:32,373 --> 00:28:34,380
 Agente May escoltará você.
 
 536
@@ -2507,11 +2507,11 @@ Você é...
 Nossa. Você é... ele.
 
 539
-00:28:55,615 --> 00:28:57,080
+00:28:55,615 --> 00:28:57,800
 Fico feliz que esteja bem.
 
 540
-00:28:57,084 --> 00:29:00,563
+00:28:57,840 --> 00:29:00,563
 Sim.
 Obrigada. São lindas.
 
@@ -2534,11 +2534,11 @@ Sei o que é certo.
 Eu sei.
 
 545
-00:29:12,022 --> 00:29:14,184
+00:29:12,220 --> 00:29:14,184
 Mas ninguém vai me ouvir.
 
 546
-00:29:14,351 --> 00:29:17,020
+00:29:14,351 --> 00:29:17,200
 Eu me voluntariei porque disse
 que as coisas mudariam.
 
@@ -2548,7 +2548,7 @@ E você disse
 que podia aguentar!
 
 548
-00:29:20,019 --> 00:29:23,576
+00:29:20,190 --> 00:29:23,576
 O primeiro voluntário surtou.
 Levou uma bomba ao laboratório.
 
@@ -2571,12 +2571,12 @@ ao seu empregador na UTI.
 Você expôs o programa.
 
 553
-00:29:35,442 --> 00:29:38,052
+00:29:35,442 --> 00:29:38,520
 As pessoas que me deram
 essa tecnologia...
 
 554
-00:29:38,054 --> 00:29:41,200
+00:29:38,540 --> 00:29:41,200
 são muito sérios,
 e não querem ser relevados.
 
@@ -2654,7 +2654,7 @@ Uma coisa! Não a...
 É o meu hardware.
 
 571
-00:30:23,666 --> 00:30:26,000
+00:30:23,666 --> 00:30:26,0
 Meu equipamento!
 Desligando.
 
@@ -2664,7 +2664,7 @@ Então, o metal alienígena
 não era o explosivo?
 
 573
-00:30:29,740 --> 00:30:31,040
+00:30:29,740 --> 00:30:31,400
 Eu presumi...
 
 574
@@ -2673,7 +2673,7 @@ que pelo padrão de ruptura
 e dispersão que fosse.
 
 575
-00:30:34,677 --> 00:30:38,049
+00:30:34,677 --> 00:30:38,490
 Mas... está só banhado
 com radiação gama e...
 
@@ -2871,7 +2871,7 @@ Isso é novo.
 Completamente instável.
 
 618
-00:32:34,047 --> 00:32:36,781
+00:32:34,470 --> 00:32:36,781
 O pobre homem
 não carregava explosivo.
 
@@ -2973,7 +2973,7 @@ Nunca me diga
 que não tem jeito!
 
 640
-00:33:31,071 --> 00:33:32,503
+00:33:31,710 --> 00:33:32,503
 É com vocês.
 
 641
@@ -2989,11 +2989,11 @@ May?
 Ele pegou Skye.
 
 644
-00:33:43,644 --> 00:33:45,013
+00:33:43,644 --> 00:33:45,130
 Você está bem?
 
 645
-00:33:45,014 --> 00:33:47,679
+00:33:45,140 --> 00:33:47,679
 Falamos disso depois...
 com muita calma.
 
@@ -3059,7 +3059,7 @@ Não, não, não, não,
 não, não, não, não, não.
 
 659
-00:34:30,749 --> 00:34:33,040
+00:34:30,749 --> 00:34:33,400
 Apenas finja
 que é uma prova.
 
@@ -3111,7 +3111,7 @@ Ela está nos dizendo
 para onde.
 
 670
-00:35:05,880 --> 00:35:08,080
+00:35:05,880 --> 00:35:08,800
 Levaremos
 a boa moça conosco.
 
@@ -3180,7 +3180,7 @@ Vamos!
 retorne ao balcão de registro.</i>
 
 685
-00:36:07,070 --> 00:36:08,594
+00:36:07,700 --> 00:36:08,594
 É, não iremos.
 
 686
@@ -3199,7 +3199,7 @@ ele é uma vadiazinha!
 Vamos, vamos!</i>
 
 689
-00:36:26,022 --> 00:36:27,452
+00:36:26,220 --> 00:36:27,452
 Ace!
 
 690
@@ -3213,16 +3213,16 @@ de reforços.</i>
 Siga para o outro lado.</i>
 
 692
-00:36:42,003 --> 00:36:44,176
+00:36:42,300 --> 00:36:44,176
 Oi. Vamos tirá-lo daqui.
 
 693
-00:36:44,177 --> 00:36:46,015
+00:36:44,177 --> 00:36:46,150
 - Eu quero meu pai.
 - Eu prometo.
 
 694
-00:36:46,016 --> 00:36:47,763
+00:36:46,160 --> 00:36:47,763
 <i>- Vamos, querido.
 - Ace!</i>
 
@@ -3231,12 +3231,12 @@ Oi. Vamos tirá-lo daqui.
 Ace!
 
 696
-00:36:51,145 --> 00:36:54,038
+00:36:51,145 --> 00:36:54,380
 O que tem dentro de você
 é instável.
 
 697
-00:36:54,039 --> 00:36:57,558
+00:36:54,390 --> 00:36:57,558
 - Matará você e a todos aqui.
 - Quem sentirá nossa falta?
 
@@ -3275,7 +3275,7 @@ Apenas atire
 se precisar, Ward.
 
 705
-00:37:29,639 --> 00:37:32,052
+00:37:29,639 --> 00:37:32,520
 - Ward!
 - Se eu precisar.
 
@@ -3295,7 +3295,7 @@ Para onde levaram
 o meu filho?
 
 709
-00:37:55,239 --> 00:37:57,040
+00:37:55,239 --> 00:37:57,400
 Abaixe-se!
 
 710
@@ -3333,32 +3333,32 @@ que usou isso, explodiu.
 Não sou como ele, eu...
 
 717
-00:38:55,068 --> 00:38:58,068
+00:38:55,680 --> 00:38:58,680
 Importa quem sou
 por dentro.
 
 718
-00:38:58,069 --> 00:39:00,868
+00:38:58,690 --> 00:39:00,868
 Se sou uma boa pessoa,
 se sou forte.
 
 719
-00:39:00,869 --> 00:39:04,010
+00:39:00,869 --> 00:39:04,100
 <i>Estou com a mira livre
 para atirar. Entendido?</i>
 
 720
-00:39:04,011 --> 00:39:07,585
+00:39:04,110 --> 00:39:07,585
 Eu sei que você é forte.
 Seu filho sabe.
 
 721
-00:39:07,586 --> 00:39:09,086
+00:39:07,586 --> 00:39:09,860
 Ele precisa
 que nós o ajudemos.
 
 722
-00:39:09,087 --> 00:39:10,894
+00:39:09,870 --> 00:39:10,894
 Vocês o levaram!
 
 723
@@ -3405,11 +3405,11 @@ que se trabalhássemos duro...
 Se fizéssemos o certo...
 
 732
-00:39:42,068 --> 00:39:44,220
+00:39:42,680 --> 00:39:44,220
 nós teríamos um lugar.
 
 733
-00:39:45,268 --> 00:39:48,063
+00:39:45,268 --> 00:39:48,630
 Vocês disseram
 que ser homem era o bastante!
 
@@ -3419,7 +3419,7 @@ Mas há algo melhor
 que o homem.
 
 735
-00:39:51,249 --> 00:39:53,040
+00:39:51,249 --> 00:39:53,400
 Existem deuses.
 
 736
@@ -3435,7 +3435,7 @@ E o resto de nós...
 Eles são gigantes.
 
 739
-00:40:00,989 --> 00:40:03,012
+00:40:00,989 --> 00:40:03,120
 Somos aqueles
 em que eles pisam.
 
@@ -3488,7 +3488,7 @@ Eu poderia, sabia?
 Ser um herói.
 
 751
-00:40:38,260 --> 00:40:40,053
+00:40:38,260 --> 00:40:40,530
 Estou contando com isso.
 
 752
@@ -3596,7 +3596,7 @@ da minha van.
 Vai me mostrar algo novo?
 
 774
-00:42:46,099 --> 00:42:47,679
+00:42:46,990 --> 00:42:47,679
 <i>- Fala.
 - Senhor...</i>
 
@@ -3614,7 +3614,7 @@ Eles nos querem lá
 para confirmar.
 
 778
-00:42:55,455 --> 00:42:57,059
+00:42:55,455 --> 00:42:57,590
 O que é um 0-8-4?
 
 779
@@ -3632,7 +3632,7 @@ Impossível chegarmos
 no campo de aviação em...
 
 782
-00:43:08,268 --> 00:43:10,031
+00:43:08,268 --> 00:43:10,310
 10 minutos.
 
 783
