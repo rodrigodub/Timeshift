@@ -4,8 +4,8 @@
 ## Main
 ## Rotina principal
 ## 
-## v2.0.0
-## for ticket 
+## v2.0.1
+## for ticket ID 59
 ## 
 ## Rodrigo Nobrega
 ## 20131002-
@@ -14,7 +14,7 @@
 
 
 # import classes
-from tkinter import *
+from Tkinter import *
 # from Prote import *
 from TimeshiftGUI import *
 

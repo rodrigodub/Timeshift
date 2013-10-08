@@ -2,24 +2,25 @@
 
 #################################################
 ## Timeshift GUI
-## Interface gráfica para Timeshift
+## Interface grafica para Timeshift
 ## 
-## v2.0.0
-## for ticket 
+## v2.0.1
+## for ticket ID 59
 ## 
 ## Rodrigo Nobrega
-## 20131002-
+## 20131002-20131008
 #################################################
 
 
 # import modules
-from tkinter import *
-from tkinter.filedialog import *
-from Prote import *
+from Tkinter import *
+#from Tkinter.tkFileDialog import *
+from tkFileDialog import *
+from Timeshift import *
 
 
 # GUI class
-class ProteGUI(Frame):
+class TimeshiftGUI(Frame):
 	# constructor method
 	def __init__(self, master=None):
 		Frame.__init__(self, master)
@@ -30,7 +31,7 @@ class ProteGUI(Frame):
 	def createWidgets(self):
 		
 		# labelName Title
-		self.labelName = Label(self, text='Protê', font=('Verdana', 28), fg='#AAAAFF')
+		self.labelName = Label(self, text='Timeshift', font=('Verdana', 28), fg='blue')
 		self.labelName.grid(row=1, column=3)
 		
 		# fileName Label & Entry
@@ -43,17 +44,12 @@ class ProteGUI(Frame):
 		self.buttonFileDialog = Button(self, text='Choose', padx=20, command=self.chooseFile)
 		self.buttonFileDialog.grid(row=3, column=6, columnspan=2, padx=20)
 		
-		# inputString Label & Entry
-		self.labelinputString = Label(self, text='Original String', padx=20, justify=LEFT)
-		self.entryinputString = Entry(self, width=50)
-		self.labelinputString.grid(row=4, column=0, columnspan=2)
-		self.entryinputString.grid(row=4, column=2, columnspan=4)		
-
-		# outputString Label & Entry
-		self.labeloutputString = Label(self, text='New String', justify=LEFT)
-		self.entryoutputString = Entry(self, width=50)
-		self.labeloutputString.grid(row=5, column=0, columnspan=2)
-		self.entryoutputString.grid(row=5, column=2, columnspan=4)	
+		# timeDelta Label & Slider
+		self.labelTimeDelta = Label(self, text='Time Delta (s)', padx=20, justify=LEFT)
+		self.entryTimeDelta = Scale(self, from_=-10., to=10., length=400, orient=HORIZONTAL
+			, resolution=0.01, troughcolor='white', activebackground='blue')
+		self.labelTimeDelta.grid(row=4, column=0, columnspan=2)
+		self.entryTimeDelta.grid(row=4, column=2, columnspan=4)		
 		
 		# OK Button
 		self.buttonOK = Button(self, text='OK', width=10, padx=20, command=self.OK)
@@ -65,7 +61,7 @@ class ProteGUI(Frame):
 	
 	# OK method
 	def OK(self):
-		Prote(self.entryFileName.get(),self.entryinputString.get(),self.entryoutputString.get())
+		Timeshift(self.entryFileName.get(),self.entryTimeDelta.get())
 	
 	# choose file method
 	def chooseFile(self):
@@ -74,17 +70,6 @@ class ProteGUI(Frame):
 		self.entryFileName.insert(0, arquivo)
 
 		
-		
-# Notes to Debugger
-# For tkinter, steps:
-# 2. create top level windowing system
-	#root = Tk()
-	#root.geometry('700x400+100+100')
-	#app = ProteGUI(master=root)
-# and
-# 5. enter the main event loop
-	#app.mainloop()
-# were moved to Main.py
 
 
 

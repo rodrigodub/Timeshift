@@ -2,7 +2,7 @@
 ## Timeshift
 ## Python Class
 ## 
-## v2.0.0
+## v2.0.1
 ## for ticket ID 77
 ## 
 ## Rodrigo Nobrega
@@ -91,8 +91,8 @@ class Timeshift(object):
 			if eachLine.find(' --> ') == -1:
 				outputFile.write(eachLine)
 			else:
-				outputFile.write(self.transformLine(eachLine))
-				outputFile.write('\n')
+				outputFile.write(self.transformLine(eachLine) + '\n')
+				#outputFile.write('\n')
 		# close files
 		outputFile.close()
 		inputFile.close()
