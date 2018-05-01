@@ -1,19 +1,17 @@
 #################################################
-## Timeshift
-## Python Class
-##
-## v2.1.0
-## for ticket - move to Python 3
-##
-## Rodrigo Nobrega
-## 20131002-20180428
+# Timeshift
+# Script to adjust SRT subtitle file timestamps
+#
+# v3.01
+# for ticket #3
+#
+# Rodrigo Nobrega
+# 20131002-20180501
 #################################################
 
 # import modules
 import datetime
-#from time import *
 import os
-
 
 
 # define class
@@ -32,14 +30,12 @@ class Timeshift(object):
 		self.replaceTime()
 		self.renaming()
 
-
 	# method timeList()
 	# to convert SRT ascii timestamps to a list of two string times
 	# Parameters:
 	# line - ex: '00:17:00,748 --> 00:17:02,648'
 	def timeList(self, line):
 		return line.replace(',','.').split(' --> ')
-
 
 	# method adjustTime()
 	# to take one string time, convert it to datetime, increase/decrease
@@ -60,7 +56,6 @@ class Timeshift(object):
 		# output with portuguese number notation / saida com virgula
 		return ('00'+str(adj.hour))[-2:] + ':' + ('00'+str(adj.minute))[-2:] + ':' + ('00'+str(adj.second))[-2:] + ',' + str(int(adj.microsecond/1000))
 
-
 	# method transformLine()
 	# to adjustTime of an entire timestamp line, and return the line
 	# 	with the same format
@@ -69,14 +64,12 @@ class Timeshift(object):
 	def transformLine(self, line):
 		return self.adjustTime(self.timeList(line)[0]) + ' --> ' + self.adjustTime(self.timeList(line)[1])
 
-
 	# method outputFileName()
 	# reused from Prote.
 	# to take the same name of the self.inputFileName, remove extension
 	# 	and append '_temp'
 	def outputFileName(self):
 		return self.inputFileName[:-4] + '_temp'
-
 
 	# method replaceTime()
 	# reused/refactored from Prote.replaceString().
@@ -97,14 +90,12 @@ class Timeshift(object):
 		outputFile.close()
 		inputFile.close()
 
-
 	# method timecomb()
 	# reused from Prote.
 	# to create a timestamp of transform time, to append to the backup SRT file name
 	def timecomb(self):
 		comb = str(datetime.datetime.now().year) + ('0' + str(datetime.datetime.now().month))[-2:] + ('0' + str(datetime.datetime.now().day))[-2:] + ('0' + str(datetime.datetime.now().hour))[-2:] + ('0' + str(datetime.datetime.now().minute))[-2:] + ('0' + str(datetime.datetime.now().second))[-2:]
 		return comb
-
 
 	# method renaming()
 	# reused from Prote.
@@ -113,3 +104,18 @@ class Timeshift(object):
 	def renaming(self):
 		os.rename(self.inputFileName, self.inputFileName[:-4] + '_' + self.timecomb() + '.bak')
 		os.rename(self.outputFileName(), self.inputFileName)
+
+
+# main loop
+def main():
+	print('\n=============================================================================')
+	print('                   Adjust SRT Subtitles timestamps')
+	print('=============================================================================\n')
+	id = input('Subtitle file location directory: ')
+	print(id)
+
+
+# main, calling main loop
+if __name__ == '__main__':
+    # test()
+    main()
