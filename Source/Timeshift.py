@@ -1,17 +1,17 @@
 #################################################
 ## Timeshift
 ## Python Class
-## 
-## v2.0.1
-## for ticket ID 77
-## 
+##
+## v2.1.0
+## for ticket - move to Python 3
+##
 ## Rodrigo Nobrega
-## 20131002-20131008
+## 20131002-20180428
 #################################################
 
 # import modules
 import datetime
-#from time import * 
+#from time import *
 import os
 
 
@@ -31,7 +31,7 @@ class Timeshift(object):
 		self.deltaTime = deltaTime
 		self.replaceTime()
 		self.renaming()
-		
+
 
 	# method timeList()
 	# to convert SRT ascii timestamps to a list of two string times
@@ -45,7 +45,7 @@ class Timeshift(object):
 	# to take one string time, convert it to datetime, increase/decrease
 	# 	with self.deltaTime, and return a string version
 	# Parameters:
-	# timeValue - ex: '00:17:00,748'	
+	# timeValue - ex: '00:17:00,748'
 	def adjustTime(self, timeValue):
 		adj = datetime.datetime(datetime.datetime.today().year
 			, datetime.datetime.today().month
@@ -65,13 +65,13 @@ class Timeshift(object):
 	# to adjustTime of an entire timestamp line, and return the line
 	# 	with the same format
 	# Parameters:
-	# line - ex: '00:17:00,748 --> 00:17:02,648'	
+	# line - ex: '00:17:00,748 --> 00:17:02,648'
 	def transformLine(self, line):
 		return self.adjustTime(self.timeList(line)[0]) + ' --> ' + self.adjustTime(self.timeList(line)[1])
 
 
 	# method outputFileName()
-	# reused from Prote.	
+	# reused from Prote.
 	# to take the same name of the self.inputFileName, remove extension
 	# 	and append '_temp'
 	def outputFileName(self):
@@ -79,13 +79,13 @@ class Timeshift(object):
 
 
 	# method replaceTime()
-	# reused/refactored from Prote.replaceString().	
+	# reused/refactored from Prote.replaceString().
 	# to parse self.inputFileName and process time stamps, and
 	# output another file with same format, but modified timestamps
 	def	replaceTime(self):
 		# open files
-		inputFile = open(self.inputFileName,'r')
-		outputFile = open(self.outputFileName(),'w')
+		inputFile = open(self.inputFileName,'r', encoding = "ISO-8859-1")
+		outputFile = open(self.outputFileName(),'w', encoding = "ISO-8859-1")
 		# iterate
 		for eachLine in inputFile:
 			if eachLine.find(' --> ') == -1:
@@ -99,29 +99,17 @@ class Timeshift(object):
 
 
 	# method timecomb()
-	# reused from Prote.	
+	# reused from Prote.
 	# to create a timestamp of transform time, to append to the backup SRT file name
 	def timecomb(self):
 		comb = str(datetime.datetime.now().year) + ('0' + str(datetime.datetime.now().month))[-2:] + ('0' + str(datetime.datetime.now().day))[-2:] + ('0' + str(datetime.datetime.now().hour))[-2:] + ('0' + str(datetime.datetime.now().minute))[-2:] + ('0' + str(datetime.datetime.now().second))[-2:]
 		return comb
-	
+
 
 	# method renaming()
-	# reused from Prote.	
+	# reused from Prote.
 	# to exchange file names - use original self.inputFileName as the new
-	# 	transformed file, and rename the original file with <timecomb>.bak	
+	# 	transformed file, and rename the original file with <timecomb>.bak
 	def renaming(self):
 		os.rename(self.inputFileName, self.inputFileName[:-4] + '_' + self.timecomb() + '.bak')
 		os.rename(self.outputFileName(), self.inputFileName)
-		
-
-
-
-
-
-
-
-
-
-
-
