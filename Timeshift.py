@@ -2,8 +2,8 @@
 # Timeshift
 # Script to adjust SRT subtitle file timestamps
 #
-# v3.01
-# for ticket #3
+# v3.02
+# for ticket #2
 #
 # Rodrigo Nobrega
 # 20131002-20180501
@@ -14,7 +14,7 @@ import datetime
 import os
 
 
-# define class
+# define Timeshift class
 class Timeshift(object):
 	"""
 	Timeshift is a Python script to adjust
@@ -104,6 +104,20 @@ class Timeshift(object):
 	def renaming(self):
 		os.rename(self.inputFileName, self.inputFileName[:-4] + '_' + self.timecomb() + '.bak')
 		os.rename(self.outputFileName(), self.inputFileName)
+
+
+# function to convert a 'hh:mm:ss' string to a datetime
+def timestringconvert(timestring):
+	# count colon and validate
+	try:
+		timestring.count(':') == 2
+	except:
+		print('Time string format should be HH:MM:SS')
+		break
+	n = datetime.datetime.now()
+	a = [int(i) for i in timestring.spli[':']]
+	b = datetime.datetime(n.year, n.month, n.day, a[0], a[1], a[2])
+	return b
 
 
 # main loop
